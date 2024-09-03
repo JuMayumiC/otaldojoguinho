@@ -23,11 +23,11 @@ const perguntas = [
             alternativas: [
             {
                 texto: "Que você fique rico, mas sua familia passe fome e vc não possa ajudar",
-                afirmação: "\nUau, bem egoísta e ingrato da tua parte, mas estou com você kk",
+                afirmação: "\rUau, bem egoísta e ingrato da tua parte, mas estou com você kk",
             },
             {
                 texto: "Que sua família fique rica, mas que te deixem em situação de rua",
-                afirmação: "\nUau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
+                afirmação: "\rUau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
             },
         ]
     },
