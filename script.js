@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Que toda a fauna seja substituída para a do Era Mesozóica, mas os humanos se mantenham",
-                afirmação: "Uau, você é ama a natureza neh kkkkk",
+                afirmação: "Uau, você ama a natureza neh kkkkk",
             },
             {
                 texto: "Que todos os humanos morram, mas a fauna se mantenha a mesma",
@@ -112,7 +112,7 @@ function mostraAlternativa (){
 
 function respostaSelecionada (pergunta){
     const afirmações = pergunta.afirmação;
-    historiafinal += afirmações + " ";
+    historiafinal += afirmações + document.write('<br>');
     atual++;
     mostraPergunta ();
 }
