@@ -86,7 +86,7 @@ const perguntas = [
 ]
 let atual = 0;
 let perguntaAtual;
-let historiafinal;
+let historiafinal = "";
 
 
 function mostraPergunta (){
@@ -112,7 +112,7 @@ function mostraAlternativa (){
 
 function respostaSelecionada (pergunta){
     const afirmações = pergunta.afirmação;
-    historifinal += afirmações + " ";
+    historiafinal += afirmações + " ";
     atual++;
     mostraPergunta ();
 }
