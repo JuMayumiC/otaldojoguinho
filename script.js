@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Que um trem atropela 100 doguinhos, mas todos os que estão vivos têm um lar amável",
-                afirmação: "Uau, ser bem hipócrita com relação a cachorrinhos inocentes kkkkkkkkk",
+                afirmação: "Uau, ser bem hipócrita com relação a cachorrinhos inocentes kkkkkkkkk"+ document.write("<br>"),
             },
             {
                 texto: "Que a sua mãe é atropelada e morre, mas todos os pais viram saudáveis e presentes",
@@ -23,11 +23,11 @@ const perguntas = [
             alternativas: [
             {
                 texto: "Que você fique rico, mas sua familia passe fome e vc não possa ajudar",
-                afirmação: "\rUau, bem egoísta e ingrato da tua parte, mas estou com você kk",
+                afirmação: "Uau, bem egoísta e ingrato da tua parte, mas estou com você kk",
             },
             {
                 texto: "Que sua família fique rica, mas que te deixem em situação de rua",
-                afirmação: "\rUau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
+                afirmação: "Uau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
             },
         ]
     },
