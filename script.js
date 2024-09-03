@@ -23,11 +23,11 @@ const perguntas = [
             alternativas: [
             {
                 texto: "Que você fique rico, mas sua familia passe fome e vc não possa ajudar",
-                afirmação: "Uau, bem egoísta e ingrato da tua parte, mas estou com você kk",
+                afirmação: "\nUau, bem egoísta e ingrato da tua parte, mas estou com você kk",
             },
             {
                 texto: "Que sua família fique rica, mas que te deixem em situação de rua",
-                afirmação: "Uau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
+                afirmação: "\nUau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
             },
         ]
     },
@@ -112,7 +112,7 @@ function mostraAlternativa (){
 
 function respostaSelecionada (pergunta){
     const afirmações = pergunta.afirmação;
-    historiafinal +=  afirmações + "\r ";
+    historiafinal +=  afirmações + "";
     atual++;
     mostraPergunta ();
 }
