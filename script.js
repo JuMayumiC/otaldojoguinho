@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Que um trem atropela 100 doguinhos, mas todos os que estão vivos têm um lar amável",
-                afirmação: "Uau, ser bem hipócrita com relação a cachorrinhos inocentes kkkkkkkkk"+ document.write("<br>"),
+                afirmação: "Uau, ser bem hipócrita com relação a cachorrinhos inocentes kkkkkkkkk",
             },
             {
                 texto: "Que a sua mãe é atropelada e morre, mas todos os pais viram saudáveis e presentes",
@@ -112,7 +112,7 @@ function mostraAlternativa (){
 
 function respostaSelecionada (pergunta){
     const afirmações = pergunta.afirmação;
-    historiafinal +=  afirmações + "";
+    historiafinal +=  afirmações + " ";
     atual++;
     mostraPergunta ();
 }
