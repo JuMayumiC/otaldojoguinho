@@ -112,7 +112,7 @@ function mostraAlternativa (){
 
 function respostaSelecionada (pergunta){
     const afirmações = pergunta.afirmação;
-    historiafinal += afirmações + document.write('<br>');
+    historiafinal += afirmações + "\n";
     atual++;
     mostraPergunta ();
 }
