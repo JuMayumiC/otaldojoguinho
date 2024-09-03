@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Que um trem atropela 100 doguinhos, mas todos os que estão vivos têm um lar amável",
-                afirmação: "afirmação",
+                afirmação: "Uau, ser bem hipócrita com relação a cachorrinhos inocentes kkkkkkkkk",
             },
             {
-                texto: "Que a sua mãe é atropelada e morre, mas todos os pai viram saudáveis e presentes",
-                afirmação: "afirmação",
+                texto: "Que a sua mãe é atropelada e morre, mas todos os pais viram saudáveis e presentes",
+                afirmação: "Uau, eu tenho muito medo ou dó de você com essa escolha kk, bora pra terapia hj?",
             },
         ] 
     },
@@ -23,11 +23,11 @@ const perguntas = [
             alternativas: [
             {
                 texto: "Que você fique rico, mas sua familia passe fome e vc não possa ajudar",
-                afirmação: "afirmação",
+                afirmação: "Uau, bem egoísta e ingrato da tua parte, mas estou com você kk",
             },
             {
                 texto: "Que sua família fique rica, mas que te deixem em situação de rua",
-                afirmação: "afirmação",
+                afirmação: "Uau, ou você não tem um pingo de amor próprio ou é uma pessoa gente boa",
             },
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Que toda a fauna seja substituída para a do Era Mesozóica, mas os humanos se mantenham",
-                afirmação: "afirmação",
+                afirmação: "Uau, você é ama a natureza neh kkkkk",
             },
             {
                 texto: "Que todos os humanos morram, mas a fauna se mantenha a mesma",
-                afirmação: "afirmação",
+                afirmação: "Uau, obrigada por resolver todos os problemas de uma vez só kk",
             },
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ter incidência de placas tectônicas, mas um deles destrói os estados unidos para sempre",
-                afirmação: "afirmação",
+                afirmação: "Uau, EU ESTOU CONTIGO NESSA",
             },
             {
                 texto: "Ter incidência de furacões, mas um deles te leva para oz",
-                afirmação: "afirmação",
+                afirmação: "Uau, você leu as alternativas mesmo??",
             },
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ter acesso a todos os jogos existentes, mas toda vez que vc jogar ele vai ficar travando",
-                afirmação: "afirmação",
+                afirmação: "Uau, você é paciente hein kk",
             },
             {
                 texto: "Poder assistir todos os filmes que você quiser, mas sempre te contam toda a história em detalhes antes",
-                afirmação: "afirmação",
+                afirmação: "Uau, você é o maior inimigo do plot twist kkkkkk",
             },
         ]
     },
@@ -75,11 +75,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Desenvolver uma inovação que te de fama, mas ela gera a terceira guerra mundial",
-                afirmação: "afirmação",
+                afirmação: "Uau, realmente não há sucesso sem cao neh",
             },
             {
                 texto: "Ter um trabalho científico que muda o mundo para melhor, mas outra pessoa leva os créditos e você continua desconhecido ",
-                afirmação: "afirmação",
+                afirmação: "Uau, ficar nas sombras a vida inteira? Corajoso hein",
             },
         ]
     },
