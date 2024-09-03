@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "No âmbito social, você prefere:",
         alternativas: [
             {
-                texto: "Ganhar 100 dólares toda vez que te baterem, mas ninguém nem liga para você",
+                texto: "Que um trem atropela 100 doguinhos, mas todos os que estão vivos têm um lar amável",
                 afirmação: "afirmação",
             },
             {
-                texto: "Que toda a espécie humana seja extinta, menos você (e que você não possa se suicidar)",
+                texto: "Que a sua mãe é atropelada e morre, mas todos os pai viram saudáveis e presentes",
                 afirmação: "afirmação",
             },
         ] 
@@ -22,11 +22,11 @@ const perguntas = [
             enunciado: "No âmbito social, você prefere:",
             alternativas: [
             {
-                texto: "Morrer pobre, mas o mundo é muito pacifico",
+                texto: "Que você fique rico, mas sua familia passe fome e vc não possa ajudar",
                 afirmação: "afirmação",
             },
             {
-                texto: "Você morre, mas a população continue viva",
+                texto: "Que sua família fique rica, mas que te deixem em situação de rua",
                 afirmação: "afirmação",
             },
         ]
@@ -35,11 +35,11 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "Restaurar sua espécie extinta preferida, mas a sua espécie atual preferida acaba",
+                texto: "Que toda a fauna seja substituída para a do Era Mesozóica, mas os humanos se mantenham",
                 afirmação: "afirmação",
             },
             {
-                texto: "Todos os gatinhos amam você, mas todo dia um pombo caga na sua cabeça",
+                texto: "Que todos os humanos morram, mas a fauna se mantenha a mesma",
                 afirmação: "afirmação",
             },
         ]
@@ -48,11 +48,11 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "As cidades se tornam 100% sustentáveis, mas você sente como se estivesse respirando do lado do rio Tietê a cada hora por 20 min",
+                texto: "Ter incidência de placas tectônicas, mas um deles destrói os estados unidos para sempre",
                 afirmação: "afirmação",
             },
             {
-                texto: "Você se torna imune aos pombos, mas todos os gatos te odeiam",
+                texto: "Ter incidência de furacões, mas um deles te leva para oz",
                 afirmação: "afirmação",
             },
         ]
@@ -61,11 +61,11 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "Desenvolver a cura para uma doença fodida, mas você contrai dengue hemorrágica",
+                texto: "Ter acesso a todos os jogos existentes, mas toda vez que vc jogar ele vai ficar travando",
                 afirmação: "afirmação",
             },
             {
-                texto: "Você pode ter qualquer eletrônico de graça, mas você se torna fisicamente igual ao Quasimodo",
+                texto: "Poder assistir todos os filmes que você quiser, mas sempre te contam toda a história em detalhes antes",
                 afirmação: "afirmação",
             },
         ]
@@ -74,11 +74,11 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "Você se torna imune a qualquer virose e bacterioses, mas você perde seu órgão reprodutor (perdeu o pau kk)",
+                texto: "Desenvolver uma inovação que te de fama, mas ela gera a terceira guerra mundial",
                 afirmação: "afirmação",
             },
             {
-                texto: "Você tem o corpo dos seus sonhos, mas só pode se comunicar por pombo correio ",
+                texto: "Ter um trabalho científico que muda o mundo para melhor, mas outra pessoa leva os créditos e você continua desconhecido ",
                 afirmação: "afirmação",
             },
         ]
